@@ -6,3 +6,6 @@ internal class Programasssa
         Console.WriteLine($"{dev-20}");
     }
 }
+public class qq{
+    
+}
