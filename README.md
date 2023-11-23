@@ -1,4 +1,3 @@
 # third lab
-Hello pros
-qq
-s
+bye
+
