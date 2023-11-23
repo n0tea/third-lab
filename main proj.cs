@@ -7,3 +7,6 @@ internal class Program
         Console.WriteLine($"hype");
     }
 }
+public class qq{
+    
+}
